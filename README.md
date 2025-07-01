@@ -1,11 +1,30 @@
-# Sample Snack app
+# 🛍️ E‑Commerce App UI (React Native)
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+A sleek and responsive mobile UI crafted with **React Native** for an e-commerce platform. This application includes screens for onboarding, product browsing, cart management, profile settings, and more — designed with a clean layout and seamless user experience.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+---
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## 📦 Features
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+- 🎯 Onboarding & User Authentication (Login / Signup)
+- 🏬 Product Listing & Categories
+- 🔍 Product Details with Image Carousel & Ratings
+- 🛒 Cart Management & Quantity Controls
+- 💳 Wishlist & Checkout Flow (UI Only)
+- 👤 Profile & Settings Screen (Edit profile, notifications, theme)
+- 🏠 Home & Search Screens with intuitive navigation
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+---
+
+## 🔧 Tech Stack
+
+| Technology           | Purpose                                           |
+|----------------------|---------------------------------------------------|
+| React Native         | Cross-platform mobile app UI                     |
+| Expo                 | Facilitates development and preview              |
+| React Navigation     | Handles screen and tab navigation                |
+| Vector Icons         | UI icons for actions and indicators              |
+| Styled Components    | Structure and style components (optional)        |
+
+
+
